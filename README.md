@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+Undergraduate;AI+%26+ML+enthusiast+;A+Passionate+Full+Stack+Developer+)](https://git.io/typing-svg)
 
-    [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
     [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)
     [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 ##About Me
 
-      I’m a Software Engineering undergraduate at the University of Kelaniya who enjoys turning ideas into real-world applications. I have hands-on experience in building modern full-stack systems that are scalable and user-friendly. I enjoy and continuously improving my coding practices. My interests lie in Data Science, Machine Learning and Net-Centric Web Applications.
+I’m a Software Engineering undergraduate at the University of Kelaniya who enjoys turning ideas into real-world applications. I have hands-on experience in   building modern full-stack systems that are scalable and user-friendly. I enjoy and continuously improving my coding practices. My interests lie in Data Science, Machine Learning and Net-Centric Web Applications.
 
 ## 🛠 My Digital Toolbox
 
