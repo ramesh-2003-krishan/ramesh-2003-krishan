@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
-About Me
+##About Me
       I’m a Software Engineering undergraduate at the University of Kelaniya who enjoys turning ideas into real-world applications. I have hands-on experience in building modern full-stack systems that are scalable and user-friendly. I enjoy and continuously improving my coding practices. My interests lie in Data Science, Machine Learning and Net-Centric Web Applications.
 
 ## 🛠 My Digital Toolbox
