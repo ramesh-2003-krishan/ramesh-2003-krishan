@@ -13,4 +13,4 @@ I’m a Software Engineering undergraduate at the University of Kelaniya who enj
 
 ## 🛠 My Digital Toolbox
 
-![Tech Stack](https://skillicons.dev/icons?i=java,js,react,nodejs,php,mysql,mongodb,postman,docker,figma,azure,aws)
+![Tech Stack](https://skillicons.dev/icons?i=java,js,react,nodejs,cs,dotnet,postgres,php,mysql,mongodb,postman,docker,figma,azure,aws)
